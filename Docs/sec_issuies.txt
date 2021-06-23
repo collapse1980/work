@@ -2,6 +2,14 @@ This document describes the security issues of our organization that we found wi
 
 Information Security is not only about securing information from unauthorized access. Information Security is basically the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction of information. Information can be physical or electronic one. Information can be anything like Your details or we can say your profile on social media, your data in mobile phone, your biometrics etc. Thus Information Security spans so many research areas like Cryptography, Mobile Computing, Cyber Forensics, Online Social Media etc.
 
+Information Security refers to the processes and methodologies which are designed and implemented to protect print, electronic, or any other form of confidential, private and sensitive information or data from unauthorized access, use, misuse, disclosure, destruction, modification, or disruption.
+
+Wikipedia says,
+
+"Information security means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction. The terms information security, computer security and information assurance are frequently used interchangeably. These fields are interrelated and share the common goals of protecting the confidentiality, integrity and availability of information; however, there are some subtle differences between them. These differences lie primarily in the approach to the subject, the methodologies used, and the areas of concentration. Information security is concerned with the confidentiality, integrity and availability of data regardless of the form the data may take: electronic, print, or other forms."
+
+
+
 During First World War, Multi-tier Classification System was developed keeping in mind sensitivity of information. With the beginning of Second World War formal alignment of Classification System was done. Alan Turing was the one who successfully decrypted Enigma Machine which was used by Germans to encrypt warfare data.
 
 How ciphers work
@@ -49,6 +57,8 @@ Vulnerability management is the process of scanning an environment for weak poin
 In many networks, businesses are constantly adding applications, users, infrastructure, and so on. For this reason, it is important to constantly scan the network for potential vulnerabilities. Finding a vulnerability in advance can save your businesses the catastrophic costs of a breach.
 
 We also discovered a critical vulnerability in our information system. The problem is in the security department, namely in the video surveillance subdivision - a video surveillance camera with a backdoor was found, which the manufacturer closed in a subsequent update. The device needs to be updated as soon as possible, as it is also present in our wireless network. Does not recommend choosing Chinese manufacturers for the purchase of IP cameras equipment.
+
+This file can also be sent to our bot in telegram. good luck
 
 What is Cybersecurity?
 Cybersecurity is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked. Part of that is identifying what the critical data is, where it resides, its risk exposure, and the technology you have to implement in order to protect it.
