@@ -1,0 +1,75 @@
+This document describes the security issues of our organization that we found with Michael. it also contains some technical part about information security in general.
+
+Information Security is not only about securing information from unauthorized access. Information Security is basically the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction of information. Information can be physical or electronic one. Information can be anything like Your details or we can say your profile on social media, your data in mobile phone, your biometrics etc. Thus Information Security spans so many research areas like Cryptography, Mobile Computing, Cyber Forensics, Online Social Media etc.
+
+During First World War, Multi-tier Classification System was developed keeping in mind sensitivity of information. With the beginning of Second World War formal alignment of Classification System was done. Alan Turing was the one who successfully decrypted Enigma Machine which was used by Germans to encrypt warfare data.
+
+How ciphers work
+A cipher uses a system of fixed rules -- an algorithm -- to transform plaintext, a legible message, into ciphertext, an apparently random string of characters. Ciphers can be designed to encrypt or decrypt bits in a stream (stream ciphers), or they can process ciphertext in uniform blocks of a specified number of bits (block ciphers).
+
+Some of the best known historical ciphers include:
+
+Caesar cipher is one of the simplest and earliest known ciphers; some attribute the use of this cipher to Caesar, who is said to have used it to communicate securely with his generals. The Caesar cipher is a simple type of substitution cipher where each letter in the plaintext is "shifted" a specific number of places down the alphabet; traditionally, the shift number used by Caesar was three. Substitution ciphers, like the Caesar cipher, are often used by writing down the plaintext alphabet, with the ciphertext alphabet written above the plaintext letters, shifted by the number agreed upon by those communicating. A shift of three puts the ciphertext letter D above the plaintext A, E above B and so on. The number of characters shifted is considered a simple form of a key.
+Atbash cipher is a substitution cipher in which the plaintext alphabet is mapped onto itself, but in reverse order. In other words, the plaintext letter A is mapped to ciphertext Z, B is mapped to Y, C to X and so on. The Atbash cipher is named after the two first and two last letters in the Hebrew alphabet, and it is thought to have been in use for hundreds of years.
+Simple substitution cipher has also been used for hundreds of years and substitutes every plaintext character for a different ciphertext character, resulting in what is effectively a 26-character key. It differs from the Caesar cipher because the cipher alphabet is the alphabet completely jumbled, rather than simply shifted by a uniform number of places.
+Vigenère cipher is a form of polyalphabetic substitution, meaning a cipher based on substitution, using multiple substitution alphabets. The Vigenère cipher uses a series of interwoven Caesar ciphers, based on the letters of a keyword. The original text is encrypted using what is known as the Vigenère square or Vigenère table.
+Homophonic substitution cipher is a substitution cipher in which several different ciphertext letters replace single plaintext letters. This type of cipher is typically much more difficult to break than standard substitution ciphers.
+These historical ciphers are still relevant because they use different fundamental components of modern ciphers, such as substitution and transposition.
+
+The wireless zone of our wireless network is only accessible to employees. the access point is password protected. designers sometimes use an open hotspot from mobile phones.  */primary_wifi:crazyhell666/* ###so as not to forget###
+
+The network perimeter is protected by a firewall and CISCO equipment. support is carried out by the phone number indicated on the official website.
+
+What certifications are needed for cybersecurity jobs?
+Certifications for cybersecurity jobs can vary. For some companies, their chief information security officer (CISO) or certified information security manager (CISM) can require vendor-specific training.
+
+More generally, nonprofit organizations like the International Information Systems Security Certification Consortium provide widely accepted security certifications. Certifications can range from CompTIA Security+ to the Certified Information Systems Security Professional (CISSP).
+
+Types of InfoSec
+
+Application security is a broad topic that covers software vulnerabilities in web and mobile applications and application programming interfaces (APIs). These vulnerabilities may be found in authentication or authorization of users, integrity of code and configurations, and mature policies and procedures. Application vulnerabilities can create entry points for significant InfoSec breaches. Application security is an important part of perimeter defense for InfoSec.
+
+
+Cloud security focuses on building and hosting secure applications in cloud environments and securely consuming third-party cloud applications. “Cloud” simply means that the application is running in a shared environment. Businesses must make sure that there is adequate isolation between different processes in shared environments.
+
+Cryptography
+Encrypting data in transit and data at rest helps ensure data confidentiality and integrity. Digital signatures are commonly used in cryptography to validate the authenticity of data. Cryptography and encryption has become increasingly important. A good example of cryptography use is the Advanced Encryption Standard (AES). The AES is a symmetric key algorithm used to protect classified government information.
+
+
+Infrastructure security deals with the protection of internal and extranet networks, labs, data centers, servers, desktops, and mobile devices.
+
+
+Incident response is the function that monitors for and investigates potentially malicious behavior.
+
+In preparation for breaches, IT staff should have an incident response plan for containing the threat and restoring the network. In addition, the plan should create a system to preserve evidence for forensic analysis and potential prosecution. This data can help prevent further breaches and help staff discover the attacker.
+
+
+Vulnerability management is the process of scanning an environment for weak points (such as unpatched software) and prioritizing remediation based on risk.
+
+In many networks, businesses are constantly adding applications, users, infrastructure, and so on. For this reason, it is important to constantly scan the network for potential vulnerabilities. Finding a vulnerability in advance can save your businesses the catastrophic costs of a breach.
+
+We also discovered a critical vulnerability in our information system. The problem is in the security department, namely in the video surveillance subdivision - a video surveillance camera with a backdoor was found, which the manufacturer closed in a subsequent update. The device needs to be updated as soon as possible, as it is also present in our wireless network. Does not recommend choosing Chinese manufacturers for the purchase of IP cameras equipment.
+
+What is Cybersecurity?
+Cybersecurity is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked. Part of that is identifying what the critical data is, where it resides, its risk exposure, and the technology you have to implement in order to protect it.
+
+Where Information Security and Cybersecurity Overlap
+There is a physical security component to both cybersecurity and information security.
+If you have a warehouse full of confidential paper documents, you clearly need some physical security in place to prevent anyone from rummaging through the information. And as more data becomes digital, the process to protect that data requires more advanced IT security tools. So, while you can’t put a physical padlock on a desktop computer, you can put a padlock on your server room door. In other words, if your data is stored physically or digitally, you need to be sure you have all the right physical access controls in place to prevent unauthorized individuals from gaining access.
+
+Cyber Attack Methods: What attacks exist?
+
+Cyber-crime is constantly changing and new methods are being developed to identify and exploit security holes. In general, IT Security is asymmetric: in order to significantly damage a company’s operating procedures, a cyber-criminal must successfully exploit a single weakness. Companies, on the other hand, have to ensure comprehensive protection to safeguard their IT security.
+
+Advanced Persistent Threats (APTs)
+Advanced Persistent Threats (APT) means “advanced and persistent threat”. Hackers use a lot of time, effort and resources to penetrate a system. First they infiltrate a computer to spy on internal processes and from there they sabotage the entire network. This gives cyber-criminals permanent access to a network and from there they can spread more malware to attack the entire system. 
+
+Malware 
+Malware can be any type of malicious program that can cause damage to infected systems. These include worms, viruses, Trojans and ransomware programs. WannaCry, Petya and Ryuk in particular have demonstrated in recent years that malware is quite capable of bringing companies to the brink of closure or even insolvency if IT Security is inadequate. More about malware you can read here.
+
+Phishing
+Phishing is an attempt at fraud carried out electronically, in which a fake email is sent to the recipient, who often does not recognize it as such at first. This method of cyber-attack, in the form of a professional looking email, is often designed to trick the recipient into revealing confidential data. Learn more about phishing here.
+
+phishing emails
+DDoS Attacks
+DDoS stands for Distributed Denial Of Service. In a DDoS attack, bots cause a large number of requests to the victim’s server. As a result, certain services are paralyzed because the affected servers are overloaded. Here you can find more information about DDoS attacks.
