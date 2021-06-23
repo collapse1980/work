@@ -58,7 +58,7 @@ In many networks, businesses are constantly adding applications, users, infrastr
 
 We also discovered a critical vulnerability in our information system. The problem is in the security department, namely in the video surveillance subdivision - a video surveillance camera with a backdoor was found, which the manufacturer closed in a subsequent update. The device needs to be updated as soon as possible, as it is also present in our wireless network. Does not recommend choosing Chinese manufacturers for the purchase of IP cameras equipment.
 
-This file can also be sent to our bot in telegram. good luck
+This file name can also be sent to our bot in telegram. good luck
 
 What is Cybersecurity?
 Cybersecurity is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked. Part of that is identifying what the critical data is, where it resides, its risk exposure, and the technology you have to implement in order to protect it.
